@@ -7,7 +7,7 @@ This project is a PacMan game developed using **WPF** with 6 opponents whose goa
 **How to run the project?**
 
 **Important: You need to change the path of the imagesFolder (line 244)
-Where you run the application**
+Where you run the application.**
 
 1) Open Visual Studio 2022.
 
